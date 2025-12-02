@@ -3,9 +3,7 @@
 
 
 
-  - 💼 I'm currently working as a Front-end Develop at StartID.
-  - 🎓 I'm studying Computer Science at the Universidade Federal do Espírito Santo.
-  - 🌱 Learning more about NodeJS and Backend.
+  - 💼 I'm currently working as a Front-end Develop at Ease.
 
   ## 🚀 My Skills
 
